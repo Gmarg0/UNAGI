@@ -14,7 +14,7 @@ The project includes scripts for:
 
 Clone this repository and install the required packages:
 
-```bash
+bash
 git clone https://github.com/Gmarg0/UNAGI.git
 cd tv-show-character-classifier
 pip install -r requirements.txt
